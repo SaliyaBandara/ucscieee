@@ -1,0 +1,9 @@
+Normalize.css - https://necolas.github.io/normalize.css/
+Boxicons icons - https://boxicons.com/
+Animate.css - https://animate.style/
+AOS animation library - https://michalsnik.github.io/aos/
+Brandon Grotesque font - https://www.cdnfonts.com/brandon-grotesque.font
+aether - https://codepen.io/seanfree/pen/PxJyEW
+TweenMax - https://greensock.com/tweenmax/
+jQuery - https://jquery.com/
+WOW js - https://wowjs.uk/

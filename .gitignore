@@ -1,0 +1,13 @@
+.git
+backup
+data-log/*
+.vscode
+gtihub_private
+gtihub_private.pub
+*.mp4
+*.pdf
+*.rar
+*.sql
+*.zip
+
+/secret654da56s4
