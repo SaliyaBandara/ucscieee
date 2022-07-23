@@ -828,7 +828,7 @@ h1.boxedH1:before {
 section.timeline {
     margin-bottom: 10em;
     max-width: 100vw;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .timelineCont h2 {

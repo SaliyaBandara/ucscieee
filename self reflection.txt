@@ -1,6 +1,6 @@
 /*
 
-I choose Madhack as the event to develop this web page. Since it is a highly technical competition, I decided the web page needs to include some flashy techy patterns and neon lights and texts, etc., to bring a high-tech feel.
+I chose Madhack as the event to develop this web page. Since it is a highly technical competition, I decided the web page needs to include some flashy techy patterns and neon lights and texts, etc., to bring a high-tech feel.
 I referenced https://madhack.ucscieee.com/ for the inspiration and content of the web page. I added my own twist to the Madhack theme and enhanced the feel. I also added some cool animations to the web page. Some of these animations might consume a lot of CPU power. It's not an encouraged feature of a website. But since this web page is an info page, I think it is not a problem. Also, most of the modern devices can easily handle it.
 
 Designing a web page for a competition is entirely different from designing a normal consumer web page. This website should impress and be memorable to the potential participants. So it should be designed to be a fun and exciting experience for the participants and increase the time spent on the website. So, I gained a lot of knowledge about web page design and how to make a web page that is fun and exciting.

@@ -7,3 +7,4 @@ aether - https://codepen.io/seanfree/pen/PxJyEW
 TweenMax - https://greensock.com/tweenmax/
 jQuery - https://jquery.com/
 WOW js - https://wowjs.uk/
+Simplex Noise - https://www.npmjs.com/package/simplex-noise
